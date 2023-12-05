@@ -11,7 +11,7 @@ I'm Sivasankari! I'm a software engineer 👩‍💻 who is passionate about web
 <a href="https://www.w3.org/TR/CSS/#css" title="CSS3"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Css3/1572b6"></a>&nbsp;
 <a href="http://www.ecma-international.org/publications-and-standards/standards/ecma-262/" title="JavaScript"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/JavaScript/f7df1e"></a>&nbsp;
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" title="C Lang"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/C/a8b9cc"></a>&nbsp;
-![image](https://github.com/sivasankari195/Sivasankari/assets/147397428/24f7c5ff-3bff-4534-9b76-104144975230)
+<a href="https://docs.oracle.com/en/java/" title="JAVA Lang"><img loading="lazy" height="16" src="(https://github.com/sivasankari195/Sivasankari/assets/147397428/24f7c5ff-3bff-4534-9b76-104144975230)"></a>&nbsp;
 
 
 
