@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sivasankari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 -I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
+
 - 🌱 I’m currently learning **React ,Spring Framework**
 - 📫 How to reach me **msivasankari195@gmail.com**
+
 <h3 align="left">Learning in public on :</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/profile/msivasankari195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@msivasankari195" height="30" width="40" /></a>
